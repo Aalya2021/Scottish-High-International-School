@@ -1,0 +1,72 @@
+.scottish_mainDiv {
+    border: 1px;
+    border-color: bisque;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.scottish_mainDiv img {
+    width: 100%;
+}
+
+
+.scottish_mainDiv hr {
+    width: 230px;
+}
+
+.scottish_mainDiv h5,
+.scottish_mainDiv p {
+    margin-left: 20px;
+}
+
+.faci_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.faci_head i {
+    float: right;
+}
+
+.faci_text span {
+    color: #ff7700;
+}
+
+.admission_li {
+    margin-top: 13px;
+}
+
+.admission_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.admission_li img {
+    border-radius: 25px;
+}
+
+.admission_li p {
+    margin-top: 10px;
+}
+#conta {
+    background-color: darkcyan;
+}
+
+#conta iframe {
+    width: 100%;
+}
+
+.conta_1 h3 {
+    display: inline;
+}
+
+.conta_1 a {
+    color: white;
+    text-shadow: none;
+}
+
